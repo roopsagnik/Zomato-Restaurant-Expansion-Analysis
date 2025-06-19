@@ -9,7 +9,14 @@ In this project, I worked as a Data Analyst for Zomato to help identify ideal lo
 
 🛠️ Tools Used: Google Sheets 
 
-✅ Techniques Applied: Pivot Tables, Charts & Graphs, Conditional Formatting, Data Cleaning techniques, Basic Formulas (SUMIFS, COUNTIFS, VLOOKUP, etc.)
+## ✅ Techniques Applied
+<ul>
+  <li>Pivot Tables</li>
+  <li>Charts & Graphs</li>
+  <li>Conditional Formatting</li>
+  <li>Data Cleaning techniques</li>
+  <li>Basic Formulas (SUMIFS, COUNTIFS, VLOOKUP, etc.)</li>
+</ul>
 
 ---
 
