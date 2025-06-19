@@ -12,8 +12,6 @@
 ✅ Techniques Applied: Pivot Tables, Charts & Graphs, Conditional Formatting, Data Cleaning techniques, Basic Formulas (SUMIFS, COUNTIFS, VLOOKUP, etc.)
 
 ## Dashboard :
-<a href="https://github.com/roopsagnik/Zomato-Restaurant-Expansion-Analysis/blob/main/dashboard.jpg"> Dashboard View </a>
-
 ![dashboard](https://github.com/user-attachments/assets/659d2bc7-04e4-4826-999d-655e4216093c)
 
 🔍 Key Activities & Contributions:
@@ -25,8 +23,7 @@
       ✅ Evaluated local competition to find low-competition zones with high growth potential.
       ✅ Developed a dashboard to present the insights in an easy-to-understand format for business stakeholders.
 
-## Project Analysis :
-<a href="https://github.com/roopsagnik/Zomato-Restaurant-Expansion-Analysis/blob/main/Project%20Analysis.pdf"> Project Analysis PDF </a>
+## Project Analysis : <a href="https://github.com/roopsagnik/Zomato-Restaurant-Expansion-Analysis/blob/main/Project%20Analysis.pdf"> Project Analysis PDF </a>
 
 🎯 Outcome:
       Provided actionable, data-backed recommendations to help Zomato make strategic decisions for launching new restaurants in high-potential locations, minimizing risk and maximizing return on investment.
