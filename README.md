@@ -1,5 +1,4 @@
-🏷️ Project Title: 
-# Zomato-Restaurant-Expansion-Analysis
+# Zomato-Restaurant-Expansion-Analysis 🏷️
 
 ## 📄 Project Summary: 
 In this project, I worked as a Data Analyst for Zomato to help identify ideal locations for opening new restaurants. The objective was to analyze existing data  to provide data-driven recommendations for expansion based on customer preferences, location demand, cuisine trends, and competition.
