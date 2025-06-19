@@ -5,7 +5,7 @@ In this project, I worked as a Data Analyst for Zomato to help identify ideal lo
 
 ## Data Sheet : <a href= "https://github.com/roopsagnik/Zomato-Restaurant-Expansion-Analysis/blob/main/Final_Zomato_Data_sheet.xlsx"> Dataset View </a>
 
-# 🛠️ Tools Used : Google Sheets 
+## 🛠️ Tools Used : Google Sheets 
 
 ## ✅ Techniques Applied :
 <ul>
