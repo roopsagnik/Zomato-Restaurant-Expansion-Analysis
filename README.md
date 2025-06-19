@@ -4,9 +4,7 @@
 In this project, I worked as a Data Analyst for Zomato to help identify ideal locations for opening new restaurants. The objective was to analyze existing data  to provide data-driven recommendations for expansion based on customer preferences, location demand, cuisine trends, and competition.
 
 ---
- 
 ## Data Sheet : <a href= "https://github.com/roopsagnik/Zomato-Restaurant-Expansion-Analysis/blob/main/Final_Zomato_Data_sheet.xlsx"> Dataset View </a>
-
 ---
 
 🛠️ Tools Used: Google Sheets 
